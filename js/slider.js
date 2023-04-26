@@ -29,7 +29,7 @@ function loadHTML(page) {
 
 
 current_page = 0;
-total_pages = 2;
+total_pages = 3;
 document.getElementById("paginas").innerHTML = "Página " + current_page + " de " + total_pages;
 loadHTML(current_page + ".html")
 

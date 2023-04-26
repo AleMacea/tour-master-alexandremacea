@@ -5,6 +5,7 @@
         <h2> Tour Dinâmico</h2>
     </div>
     <script src="js/slider.js"></script>
+    <script src="js/loja.js"></script>
 </footer>
 
 </html>
